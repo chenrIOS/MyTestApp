@@ -281,6 +281,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KATSZP4WL9;
 				INFOPLIST_FILE = MyTestApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.boxiao.MyTestApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -295,6 +296,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KATSZP4WL9;
 				INFOPLIST_FILE = MyTestApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.boxiao.MyTestApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
